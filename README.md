@@ -8,8 +8,8 @@
 - cd setupapp
 - chmod +x untethered.sh
 - run ./untethered.sh
-- setup your device as usual
 - setup your device as usual (note: iCloud isn't working yet, so please skip apple id setup)
+- enjoy
 - to download apps from the appstore, sign your account in through the app store app
 
 ## still under development
