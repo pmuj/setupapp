@@ -25,7 +25,7 @@
 - ./sshpass -p alpine scp -rP 1025 -o StrictHostKeyChecking=no lzma boot.tar.lzma chflags RaptorActivation.pem untethered.dylib com.apple.commcenter.device_specific_nobackup.plist untethered.plist iuntethered.dylib iuntethered.plist respring.sh root@localhost:/var/root/
 
 - Open new terminal window and proceed with the following commands
-- ssh root@localhost -p 1025 (if it asks for a password, use <b>alpine</b>)
+- ssh root@localhost -p 1025 (if should ask you for a password, enter <b>alpine</b>)
 - mount -o rw,union,update /
 - rm -r /System/Library/PrivateFrameworks/MobileActivation.framework/Support/Certificates/RaptorActivation.pem
 - mv RaptorActivation.pem /System/Library/PrivateFrameworks/MobileActivation.framework/Support/Certificates/RaptorActivation.pem
