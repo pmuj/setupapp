@@ -21,9 +21,9 @@
 - go back to terminal and run the below commands one line at a time
 - rm -rf ~/.ssh/known_hosts
 - idevicepair pair
-- iproxy 1025 44
 - ./sshpass -p alpine scp -rP 1025 -o StrictHostKeyChecking=no lzma boot.tar.lzma chflags RaptorActivation.pem untethered.dylib com.apple.commcenter.device_specific_nobackup.plist untethered.plist iuntethered.dylib iuntethered.plist respring.sh root@localhost:/var/root/
 
+- iproxy 1025 44
 - Open new terminal window and proceed with the following commands
 - ssh root@localhost -p 1025 (it'll ask you for a password, enter <b>alpine</b>)
 - mount -o rw,union,update /
