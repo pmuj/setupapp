@@ -55,7 +55,7 @@
 - chflags uchg /var/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist
 - rm -r /var/mobile/Library/Logs/mobileactivationd
 
-###By this time, you can now use your device but Cydia might not work correctly so you should continue running this through terminal
+##By this time, you can now use your device but Cydia might not work correctly so you should continue running this through terminal
 
 - rm -rf /usr/libexec/substrate
 - rm -rf /usr/libexec/substrated
@@ -70,7 +70,8 @@
 - uicache --all
 - killall -9 backboardd
 
-- setup your device as usual
+- setup your device as usual (note: iCloud isn't working yet, so please skip apple id setup)
+- to download apps from the appstore, sign your account in through the app store app
 
 ## still under development
 - iServices
