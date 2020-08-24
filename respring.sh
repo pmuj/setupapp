@@ -26,4 +26,4 @@ rm -r /var/wireless/Library/Preferences/com.apple.commcenter.device_specific_nob
 mv com.apple.commcenter.device_specific_nobackup.plist /var/wireless/Library/Preferences/
 chflags uchg /var/wireless/Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist
 rm -r /var/mobile/Library/Logs/mobileactivationd
-rm /var/root/reboots.sh
+rm /var/root/respring.sh
