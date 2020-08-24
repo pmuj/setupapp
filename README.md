@@ -77,5 +77,6 @@
 - iServices
 - Notifications
 - Calls & SMS
+- tool for Windows (though current setup should also work on Linux)
 
 If you'd like to buy me a beer, https://paypal.me/khevinski014
