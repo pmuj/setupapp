@@ -12,6 +12,11 @@
 - enjoy
 - to download apps from the appstore, sign your account in through the app store app
 
+## Troubleshooting
+
+- make sure you are coming from a fresh restore/update before following the guide
+- once bye passed, logging in to iCloud upon setting up your device will cause an error, skip signing in while setting up and sign in from the App Store instead
+
 ## still under development
 - iServices
 - Notifications
