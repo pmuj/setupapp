@@ -1,8 +1,8 @@
 # setup app bye pass for iOS 12.3 and up
 
-# under development
+## under development
 
-##Supported devices
+## Supported devices
 - iPhone X
 - iPhone 8 and iPhone 8 Plus
 - iPhone 7 and iPhone 7 Plus
