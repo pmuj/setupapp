@@ -1,6 +1,7 @@
 # setup app bye pass for iOS 12.3 and up
 
 ## under development
+- this repo is currently under maintenance as some users reported having an issue bye passing or getting an untethered bye pass
 
 ## Supported devices
 - iPhone X
