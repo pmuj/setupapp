@@ -1,26 +1,16 @@
-# setup app bypass
+# setup app bye pass for iOS 12.3 and up
 
-# How to use
+# under development
 
-- Jailbreak your device
-- Open terminal and run the following commands
-- git clone https://github.com/khevin014/setupapp.git
-- cd setupapp
-- chmod +x untethered.sh
-- run ./untethered.sh
-- setup your device as usual (note: iCloud isn't working yet, so please skip apple id setup)
-- enjoy
-- to download apps from the appstore, sign your account in through the app store app
-
-## Troubleshooting
-
-- make sure you are coming from a fresh restore/update before following the guide
-- once bye passed, logging in to iCloud upon setting up your device will cause an error, skip signing in while setting up and sign in from the App Store instead
-
-## still under development
-- iServices
-- Notifications
-- Calls & SMS
-- tool for Windows
-
-If you'd like to buy me a beer, https://paypal.me/khevinski014
+##Supported devices
+- iPhone X
+- iPhone 8 and iPhone 8 Plus
+- iPhone 7 and iPhone 7 Plus
+- iPhone 6S and iPhone 6S Plus
+- iPhone 6 and iPhone 6 Plus
+- iPhone 5S
+- iPad, iPad 2, iPad 3, iPad 4, iPad 9.7in (2018), iPad 10.2in (2019)
+- iPad Air, iPad Air 2, iPad Air (2019)
+- iPad mini, iPad mini 2 with Retina display, iPad mini 3, iPad mini 4, iPad mini (2019)
+- iPad Pro 9.7in (2016), iPad Pro 10.5in (2017), iPad Pro 12.9in (2017), iPad 11in (2018), iPad 12.9in (2018)
+- iPod Touch 6th and 7th Generation
