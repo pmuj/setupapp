@@ -1,4 +1,4 @@
-# setup app bye pass for iOS 12.3 and up
+# setup app bye pass for iOS 12.3+
 
 ## under development
 
