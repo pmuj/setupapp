@@ -1,9 +1,12 @@
 # setup app bye pass for iOS 12.3+
 
-## under development
+## how to use
 
-- updated to achieve bye pass untethered with iServices working and should let GSM phones to use SIM card for calls and sms as well as cellular data
-- will provide the instructions on how to use once I'm able to test as my test phone's battery blew up
+- clone the repo
+- cd to setupapp folder
+- chmod +x byepass
+- run ./byepass
+- enjoy
 
 ## Supported devices
 - iPhone X
@@ -19,4 +22,4 @@
 - iPod Touch 6th and 7th Generation
 
 This tool is free for use
-If you offer help on this project (testing on your devices / or help me setup the web server), feel free to message me on Telegram - @khevinski014
+If you want to offer help on this project (testing on your devices / or help me setup the web server), feel free to message me on Telegram - @khevinski014
