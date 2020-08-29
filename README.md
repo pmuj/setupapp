@@ -3,10 +3,26 @@
 ## how to use
 
 - clone the repo
+- (for GSM users) edit the apple commcenter no backup plist file with your phones IMEI
 - cd to setupapp folder
 - chmod +x byepass
 - run ./byepass
 - enjoy
+
+## What is this
+
+- untethered bye pass
+- fixes notifications
+- fixes iTunes sync
+- fixes iCloud, iMessage, Facetime
+- fast Appstore download
+- fixes SIM card for GSM phones (now SIM should work for calls/SMS/cellular data - given it is not blacklisted in your country)
+- factory unlock GSM phones
+
+## Testing needed
+reset
+update
+untethered (done)
 
 ## Supported devices
 - iPhone X
