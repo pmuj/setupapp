@@ -4,9 +4,9 @@
 
 - clone the repo
 - (for GSM users) edit the apple commcenter no backup plist file with your phones IMEI
-- cd to setupapp folder
-- chmod +x byepass
-- run ./byepass
+- $ cd to setupapp folder
+- $ chmod +x byepass
+- run $ ./byepass
 - enjoy
 
 ## What is this
@@ -20,9 +20,11 @@
 - factory unlock GSM phones
 
 ## Testing needed
--reset
--update
--untethered (done)
+| Process | Result |
+| ------ | ------ |
+| reset |           |
+| update |          |
+| untethered | done |
 
 ## Supported devices
 - iPhone X
