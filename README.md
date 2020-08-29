@@ -20,9 +20,9 @@
 - factory unlock GSM phones
 
 ## Testing needed
-reset
-update
-untethered (done)
+-reset
+-update
+-untethered (done)
 
 ## Supported devices
 - iPhone X
