@@ -40,4 +40,4 @@
 - iPod Touch 6th and 7th Generation
 
 This tool is free for use
-If you want to offer help on this project (testing on your devices / or help me setup the web server), feel free to message me on Telegram - @khevinski014
+If you want to offer help on this project (testing on your devices / or help me setup the web server), feel free to message me on Telegram - @pmuj
